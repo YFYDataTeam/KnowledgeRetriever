@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+opt
+
+files/
+
 # Distribution / packaging
 .Python
 build/

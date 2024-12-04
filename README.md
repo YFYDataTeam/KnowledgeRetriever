@@ -1,1 +1,1 @@
-# KnowledgeRetriever
+# BIBot
